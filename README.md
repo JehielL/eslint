@@ -1,2 +1,2 @@
 # eslint
-practicas de eslint
+practicas de eslint y demas.
